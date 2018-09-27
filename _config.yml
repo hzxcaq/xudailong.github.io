@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 徐代龙的技术专栏
-brief-intro: Android and Python Coder
+title: 侯小九的后宫2333
+brief-intro: 前端&测试
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+url: "https://hzxcaq.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  643435675
-email: 643435675@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
+github_username:  hzxaq
+email: 245352261@QQ.com
+weibo_username: 不想写
+zhihu_username: 完了改
+linkedIn_username: 不用这玩意
 dribbble_username:
 
-description_footer: 来自徐代龙的个人专栏！
+description_footer: 这是朕的天下
 
 # comments
 # two ways to comment, only choose one, and use your own short name
